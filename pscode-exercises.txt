@@ -13,21 +13,28 @@ Write pseudo code that will perform the following.
 
 a) Read in 5 separate numbers. 
 
-    input 5 different numbers, A, B, C, D, E    
+    input 5 different numbers  A, B, C, D, E.
+    put them into an array... Call it 'Exercise3'.
 
 b) Calculate the average of the five numbers.
 
-    use equation A+B+C+D+E = sum
+    get total of numbers in array: 
+        total = sum(Exercise3)
+    divide sum by 5 for average
+        average = total/5 
 
 c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+    search array for smallest number
+        minimum = min(Exercise3) 
+    search array for smallest number
+        maximum = max(Exercise3) 
 
- 
 
 
 d) Write out the results found from steps b and c with a message describing what they are
 
-    Print the sum... The total of A+B+C+D+E = sum.
-    Print the minimum ... the smallest number in the set is min.
-    Print the maximum ... the largest number in the set is max.
+    Print the average... The average of the numbers in the array = average.
+    Print the minimum ... the smallest number in the array is minimum.
+    Print the maximum ... the largest number in the array is maximum.
 
 -- END --
