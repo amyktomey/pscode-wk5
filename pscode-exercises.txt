@@ -1,11 +1,11 @@
 // Exercise 1: Calculate the Sum of Two Numbers
 
-Input two numbers, call them A and b
-use equation A + B = sum
+Input two numbers, call them a and b
+use equation a + b = sum
 
 // Exercise 2: Check if a Number is Even or Odd
-
-    if sum divided by two is an integer, print EVEN
+Input a number.
+    if number divided by two is an integer, print EVEN
     else print ODD.
 
 // Exercise 3: 
@@ -13,7 +13,7 @@ Write pseudo code that will perform the following.
 
 a) Read in 5 separate numbers. 
 
-    input 5 different numbers  A, B, C, D, E.
+    input 5 different numbers a,b,c,d,e.
     put them into an array... Call it 'Exercise3'.
 
 b) Calculate the average of the five numbers.
